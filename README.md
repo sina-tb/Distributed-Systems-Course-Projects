@@ -6,4 +6,4 @@ A collection of Distributed Systems course projects at the University of Tehran 
 - CA2: Implementation of a concurrent ticket reservation system with a server and multiple clients.
 - CA3: Deploying a GlusterFS distributed file system on virtual machines running on the Xen hypervisor.
 
-The projects are fully explained in "README.md" file of each project.
+The projects are fully explained in `README.md` file of each project.
