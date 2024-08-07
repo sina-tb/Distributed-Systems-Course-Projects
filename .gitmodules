@@ -1,3 +1,6 @@
 [submodule "CA1-gRPC"]
 	path = CA1-gRPC
 	url = https://github.com/sina-tb/CA1-gRPC.git
+[submodule "CA2-Concurrent-Ticket-Reservation"]
+	path = CA2-Concurrent-Ticket-Reservation
+	url = https://github.com/sina-tb/CA2-Concurrent-Ticket-Reservation.git
